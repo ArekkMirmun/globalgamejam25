@@ -87,6 +87,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a1ed63e9d72f1b448fa91057b8f86bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  keyboardKey: {fileID: 21300000, guid: 507aec3c33a07394da5eb7f127f9650a, type: 3}
+  gamepadKey: {fileID: 21300000, guid: 3a66f784c08c68545a2820a71481259e, type: 3}
   interactableType: 2
   isUsed: 0
   keyHint: {fileID: 2454876196287166933}
@@ -255,7 +257,7 @@ GameObject:
   - component: {fileID: 1381315592539240759}
   - component: {fileID: 2989800315710078944}
   m_Layer: 0
-  m_Name: KeyE
+  m_Name: KeyHint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

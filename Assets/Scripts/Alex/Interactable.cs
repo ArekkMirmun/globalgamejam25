@@ -1,8 +1,16 @@
 using UnityEngine;
 
+
+public enum ControllerType
+{
+    Keyboard,
+    Gamepad
+}
 public class Interactable : MonoBehaviour
 {
-    
+ 
+    public  Sprite keyboardKey;
+    public Sprite gamepadKey;
     [SerializeField] private InteractableType interactableType;
     [SerializeField] private bool isUsed;
     [SerializeField] private GameObject keyHint;
@@ -74,5 +82,17 @@ public class Interactable : MonoBehaviour
     {
         isUsed = value;
     }
-    
+
+    public void ChangeKeyHint(ControllerType controllerType)
+    {
+        switch (controllerType)
+        {
+            case ControllerType.Keyboard:
+                keyHint.GetComponent<SpriteRenderer>().sprite = keyboardKey;
+                break;
+            case ControllerType.Gamepad:
+                keyHint.GetComponent<SpriteRenderer>().sprite = gamepadKey;
+                break;
+        }
+    }
 }
