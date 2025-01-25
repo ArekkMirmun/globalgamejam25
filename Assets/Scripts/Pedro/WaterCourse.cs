@@ -8,21 +8,22 @@ public class WaterCourse : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
-        {
-            Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
-            if (rb != null)
-            {
-                rb.AddForce(Vector2.left * 10f, ForceMode2D.Impulse);
-            }
-        }
-
         if (other.CompareTag("Rock"))
         {
             Destroy(this.gameObject);
             Destroy(blockBarrier);
             Destroy(bubbleGenerator);
             other.GetComponent<Transform>().position = rockPoint.transform.position;
+            Rigidbody2D rockRigidbody = other.GetComponent<Rigidbody2D>();
+            if (rockRigidbody != null)
+            {
+                rockRigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
+            }
+            Collider2D rockCollider = other.GetComponent<Collider2D>();
+            if (rockCollider != null)
+            {
+                rockCollider.enabled = true;
+            }
         }
 
     }
