@@ -11,6 +11,7 @@ public enum InteractableType
 public class PlayerInteract : MonoBehaviour
 {
     [SerializeField] private Interactable interactable;
+    [SerializeField] private SettingsController settingsController;
 
     public void OnInteract()
     {
@@ -42,5 +43,10 @@ public class PlayerInteract : MonoBehaviour
         {
             interactable = null;
         }
+    }
+    
+    public void OnOpenSettings()
+    {
+        settingsController.ToggleSettings();
     }
 }
