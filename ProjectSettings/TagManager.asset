@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coleccionable
   - Interactable
+  - Enemy
   layers:
   - Default
   - TransparentFX
