@@ -2222,6 +2222,7 @@ GameObject:
   - component: {fileID: 1250838849}
   - component: {fileID: 1250838851}
   - component: {fileID: 1250838850}
+  - component: {fileID: 1250838852}
   m_Layer: 0
   m_Name: WaterCourse
   m_TagString: Untagged
@@ -2275,7 +2276,7 @@ BoxCollider2D:
     serializedVersion: 2
     m_Bits: 4294967295
   m_IsTrigger: 1
-  m_UsedByEffector: 0
+  m_UsedByEffector: 1
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.12556696, y: 1.7265401}
@@ -2305,6 +2306,26 @@ MonoBehaviour:
   blockBarrier: {fileID: 895410045}
   rockPoint: {fileID: 850759865}
   bubbleGenerator: {fileID: 1907957074}
+--- !u!249 &1250838852
+AreaEffector2D:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250838848}
+  m_Enabled: 1
+  m_UseColliderMask: 1
+  m_ColliderMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_UseGlobalAngle: 0
+  m_ForceAngle: 180
+  m_ForceMagnitude: 20
+  m_ForceVariation: 0
+  m_ForceTarget: 0
+  m_Drag: 0
+  m_AngularDrag: 0
 --- !u!1 &1351185225
 GameObject:
   m_ObjectHideFlags: 0
@@ -2953,7 +2974,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 1
   m_AngularDamping: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
