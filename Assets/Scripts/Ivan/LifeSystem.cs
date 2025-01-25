@@ -1,83 +1,75 @@
-using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class LifeSystem : MonoBehaviour
 {
+    public GameObject[] healthUI; // Array para los corazones en la UI
+    public Sprite emptyHeart;
+    public Sprite fullHeart;
+    public int maxLifes = 3;
+    public int health = 3;
 
-    [Header("Configuracion")]
-    [SerializeField] private int maxLifes = 3; // Número de vidas
-    [SerializeField] private float separation = 10f; // Separación entre las vidas
-    [SerializeField] private float size = 50f; // Tamaño de la vida
+    // Vida actual
+    private int currentLife;
 
-    [Header("Referencias")]
-    [SerializeField] private GameObject parentLife; // Padre de las vidas
-    [SerializeField] private Sprite lifeImage; // Imagen de la vida
-    [SerializeField] private Sprite emptyLifeImage; // Puede estar vacio o no
-
-    private GameObject[] lifes; // Para facilitar la vida en la gestión de la vida
-
-    private int currentLife; // Vida actual
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        currentLife = maxLifes;
-        lifes = new GameObject[maxLifes];
+        currentLife = health; // Inicializar la vida actual con la salud inicial
+    }
 
-        for (int i = 0; i < maxLifes; i++)
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            // Crea un objeto vacio
-            GameObject life = Instantiate(new GameObject(), parentLife.transform);
-            // Se le cambia el padre
-            life.transform.SetParent(parentLife.transform);
-            // Añade un componente Image
-            life.AddComponent<Image>().sprite = lifeImage;
-            // Cambia el Width y Height
-            life.GetComponent<RectTransform>().sizeDelta = new Vector2(size, size);
-            // Cambia la posición añadiendo la separaciçon indicada en el inspector
-            life.transform.localPosition = new Vector3(i * separation, 0, 0);
-            lifes[i] = life;
+            TakeDamage();
         }
-    }
-
-    public void TakeDamage(int damage){
-        currentLife -= damage;
-        if(currentLife <= 0){
-            currentLife = 0;
-            Debug.Log("Has morido");
-        }
-        UpdateLife();
-    }
-
-    public void AddLife(int life){
-        currentLife += life;
-        if(currentLife > maxLifes){
-            currentLife = maxLifes;
-            Debug.Log("Llevas demasiadas vidas");
-        }
-        UpdateLife();
-    }
-
-    private void UpdateLife(){
-        for (int i = 0; i < maxLifes; i++)
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (i < currentLife)
+            Die();
+        }
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            AddLife(1);
+        }
+    }
+
+    public void TakeDamage()
+    {
+        if (health > 0)
+        {
+            health -= 1;
+            healthUI[health].GetComponent<Image>().sprite = emptyHeart;
+        }
+
+        if (health == 0)
+        {
+            Die();
+        }
+    }
+
+    public void AddLife(int life)
+    {
+        if (health < maxLifes)
+        {
+            print(health);
+            health += life;
+            if (health > maxLifes)
             {
-                if(emptyLifeImage != null){
-                    lifes[i].GetComponent<Image>().sprite = lifeImage;
-                }else{
-                    lifes[i].SetActive(true);
-                }
+                health = maxLifes;
             }
-            else
+
+
+            // Actualizar el corazón correspondiente
+            for (int i = 0; i < health; i++)
             {
-                if(emptyLifeImage != null){
-                    lifes[i].GetComponent<Image>().sprite = emptyLifeImage;
-                }else{
-                    lifes[i].SetActive(false);
-                }
+                healthUI[i].GetComponent<Image>().sprite = fullHeart;
             }
         }
+    }
+
+    void Die()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
