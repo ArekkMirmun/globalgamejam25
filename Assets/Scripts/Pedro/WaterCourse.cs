@@ -3,6 +3,8 @@ using UnityEngine;
 public class WaterCourse : MonoBehaviour
 {
     public GameObject blockBarrier;
+    public GameObject rockPoint;
+    public GameObject bubbleGenerator;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -19,6 +21,8 @@ public class WaterCourse : MonoBehaviour
         {
             Destroy(this.gameObject);
             Destroy(blockBarrier);
+            Destroy(bubbleGenerator);
+            other.GetComponent<Transform>().position = rockPoint.transform.position;
         }
 
     }
