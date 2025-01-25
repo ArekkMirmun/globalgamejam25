@@ -1,4 +1,3 @@
-using System.Collections;
 using Unity.Cinemachine;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,78 +5,88 @@ using UnityEngine.UI;
 public class MenuController : MonoBehaviour
 {
     [SerializeField] private GameObject buttonWrapper;
-    [SerializeField] PlayerMovement playerMovement;
+    [SerializeField] private PlayerMovement playerMovement;
     [SerializeField] private Button playButton;
     [SerializeField] private Transform player;
-    [SerializeField] private CinemachineCamera playerCamera; 
+    [SerializeField] private CinemachineCamera playerCamera;
     public bool isVisible = true;
-    
+
+    private bool isStartingGame = false;
+
     private void Start()
     {
         ShowMenu();
     }
 
-    
+    private void Update()
+    {
+        if (isStartingGame)
+        {
+            // Smoothly move the player to x:0
+            player.position = Vector3.Lerp(player.position, new Vector3(0, player.position.y, player.position.z), Time.deltaTime);
+
+            // Check if the player is close enough to the target position
+            if (Mathf.Abs(player.position.x) < 0.4f)
+            {
+                CompleteStartGame();
+            }
+        }
+    }
+
     public void ShowMenu()
     {
-        //set the menu to visible
+        // Set the menu to visible
         isVisible = true;
-        
-        //freeze the player movement
+
+        // Freeze the player movement
         playerMovement.FreezeMovement();
-        
-        //remove tracking target from the player camera
+
+        // Remove tracking target from the player camera
         playerCamera.Follow = null;
-        
-        //set the button wrapper to active
+
+        // Set the button wrapper to active
         buttonWrapper.SetActive(true);
-        
-        //set the play button to be selected
+
+        // Set the play button to be selected
         playButton.Select();
     }
-    
+
     public void HideMenu()
     {
         isVisible = false;
         playerMovement.UnFreezeMovement();
         buttonWrapper.SetActive(false);
     }
-    
+
     public void CloseGame()
     {
         Application.Quit();
     }
-    
+
     public void PlayGame()
     {
-        StartCoroutine(StartGame());
+        buttonWrapper.SetActive(false);
+        isStartingGame = true; // Start the game logic
     }
 
-    private IEnumerator StartGame()
+    private void CompleteStartGame()
     {
-        buttonWrapper.SetActive(false);
-        
-        //Move player to x:0 smoothly
-        while (player.position.x < -0.4f)
-        {
-            player.position = Vector3.Lerp(player.position, new Vector3(0, player.position.y, player.position.z), Time.deltaTime);
-            yield return null;
-        }
-        print("Ha llegado");
+        isStartingGame = false; // Stop moving the player
 
-        //unfreeze player movement
+        Debug.Log("Ha llegado");
+
+        // Unfreeze player movement
         playerMovement.UnFreezeMovement();
-        
-        //set the player camera to follow the player
+
+        // Set the player camera to follow the player
         playerCamera.Follow = player;
-        
-        //set the menu to invisible
+
+        // Set the menu to invisible
         HideMenu();
     }
-    
+
     public bool IsMenuOpen()
     {
         return isVisible;
     }
-    
 }
