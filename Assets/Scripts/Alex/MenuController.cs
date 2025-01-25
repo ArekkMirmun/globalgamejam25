@@ -70,6 +70,14 @@ public class MenuController : MonoBehaviour
         
         //set the player camera to follow the player
         playerCamera.Follow = player;
+        
+        //set the menu to invisible
+        HideMenu();
+    }
+    
+    public bool IsMenuOpen()
+    {
+        return isVisible;
     }
     
 }
