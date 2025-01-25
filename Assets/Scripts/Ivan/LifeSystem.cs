@@ -18,22 +18,6 @@ public class LifeSystem : MonoBehaviour
         currentLife = health; // Inicializar la vida actual con la salud inicial
     }
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage();
-        }
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            Die();
-        }
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            AddLife(1);
-        }
-    }
-
     public void TakeDamage()
     {
         if (health > 0)
