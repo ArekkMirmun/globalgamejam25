@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Runa_1_Encendida_0: 8988956209343059042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

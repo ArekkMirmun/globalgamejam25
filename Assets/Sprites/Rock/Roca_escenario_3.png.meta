@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roca_escenario_3_0: 6970335321997140217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

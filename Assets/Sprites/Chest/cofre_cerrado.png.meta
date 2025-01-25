@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cofre_cerrado_0: 7779206733081283282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
