@@ -16,7 +16,7 @@ public class EelTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player") && parentEel != null)
         {
-            parentEel.StartMoving(movementPoint);
+            parentEel.StartMoving();
         }
     }
 
