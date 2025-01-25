@@ -10,6 +10,8 @@ public class SettingsController : MonoBehaviour
     public AudioMixer bgmMixer;
     public MenuController menuController;
     public GameObject settingsPanel;
+    public GameObject lifeCanvas;
+    public GameObject oxygenCanvas;
     public PlayerMovement playerMovement;
     public Button resumeButton;
     public TMP_Dropdown resolutionDropdown; // Assign this in the Inspector
@@ -131,6 +133,10 @@ public class SettingsController : MonoBehaviour
 
     public void HideSettings()
     {
+        
+        lifeCanvas.SetActive(true);
+        oxygenCanvas.SetActive(true);
+        
         settingsPanel.SetActive(false);
         playerMovement.UnFreezeMovement();
     }
@@ -139,6 +145,9 @@ public class SettingsController : MonoBehaviour
     {
         if (menuController.IsMenuOpen()) return;
 
+        lifeCanvas.SetActive(false);
+        oxygenCanvas.SetActive(false);
+        
         settingsPanel.SetActive(true);
         playerMovement.FreezeMovement();
         resumeButton.Select();

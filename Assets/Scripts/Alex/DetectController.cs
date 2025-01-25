@@ -5,6 +5,8 @@ public class DetectController : MonoBehaviour
 {
     private PlayerInput playerInput; // Referencia al PlayerInput
     private string currentControlScheme; // Esquema de control actual
+    public GameObject settingsGamepadHint;
+    public GameObject settingsKeyboardHint;
 
     void Awake()
     {
@@ -33,6 +35,9 @@ public class DetectController : MonoBehaviour
             foreach (Interactable interactable in interactables)
             {
                 interactable.ChangeKeyHint(ControllerType.Gamepad);
+                
+                settingsGamepadHint.SetActive(true);
+                settingsKeyboardHint.SetActive(false);
             }
             
             
@@ -45,6 +50,9 @@ public class DetectController : MonoBehaviour
             foreach (Interactable interactable in interactables)
             {
                 interactable.ChangeKeyHint(ControllerType.Keyboard);
+                
+                settingsGamepadHint.SetActive(false);
+                settingsKeyboardHint.SetActive(true);
             }
         }
     }

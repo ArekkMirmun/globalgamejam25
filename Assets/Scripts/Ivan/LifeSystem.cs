@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -9,9 +10,33 @@ public class LifeSystem : MonoBehaviour
     public Sprite fullHeart;
     public int maxLifes = 3;
     public int health = 3;
+    public SpriteRenderer submarineSprite;
+    private float invencibilityTime = 1f; // Tiempo de invencibilidad
+    private float invencibilityTimer; // Temporizador de invencibilidad
+    private bool isInvencible; // Indica si el jugador es invencible
 
     // Vida actual
     private int currentLife;
+
+    private void FixedUpdate()
+    {
+        if (isInvencible)
+        {
+            //Get PlayerMovement component
+            PlayerMovement playerMovement = GetComponent<PlayerMovement>();
+            //Slow down the player
+            playerMovement.SlowDown(5f);  
+            invencibilityTimer += Time.deltaTime;
+            if (invencibilityTimer >= invencibilityTime)
+            {
+                isInvencible = false;
+                submarineSprite.color = Color.white;
+                invencibilityTimer = 0f;
+                playerMovement.ResetSpeed();
+            }
+        }
+    }
+
 
     void Start()
     {
@@ -20,10 +45,18 @@ public class LifeSystem : MonoBehaviour
 
     public void TakeDamage()
     {
+        if (isInvencible) return;
+        
+        isInvencible = true;
+        
+        //set submarine sprite red
+        submarineSprite.color = Color.red;
+        
         if (health > 0)
         {
             health -= 1;
             healthUI[health].GetComponent<Image>().sprite = emptyHeart;
+            //set the player invencible
         }
 
         if (health == 0)

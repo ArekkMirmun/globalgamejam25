@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 6ad44041804e4974e9dc26c3f3a402bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3501248091204714281
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 7894452388109761998
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 3974437889941785429
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 9172301600936934985
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -6408015951681275278
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 4978769188805449997
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -3174635192528128928
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 5420732501270733470
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -6291012144776608592
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 2971307864618428759
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 1651892154329562244
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 8779071851196087418
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -8975803349127995346
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 3992675736844786954
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -926993570923402442
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -6636048649932280099
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 2585367210528738122
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -2517358683744574872
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -4575009907007763921
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -5665706327218155394
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 1498543372063269190
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -8422618961262187127
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 2042407857288283192
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -8819495239067210191
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 2573989349188120622
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 1091884409931172405
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 3544804565521685435
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -498373763063588166
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 4492137794665832154
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -4523468918357881974
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 4576121132970080109
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -4970243200227435351
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -8478929043027205308
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -7227146156946348025
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 2894565859283204002
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -3960535939915311802
+    second: Algas_Gif-ezgif.com-gif-to-sprite-converter_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1080
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7782
+        width: 337
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08a355961196fc0800000000000000
+      internalID: -3501248091204714281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 7782
+        width: 334
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3481de9abe8d60800000000000000
+      internalID: 7894452388109761998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 7782
+        width: 331
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b45d3143a082730800000000000000
+      internalID: 3974437889941785429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 7782
+        width: 328
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb79885bf8a4f70800000000000000
+      internalID: 9172301600936934985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 8578
+        y: 7782
+        width: 325
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a300d61772217a0800000000000000
+      internalID: -6408015951681275278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 6702
+        width: 323
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d099865d234281540800000000000000
+      internalID: 4978769188805449997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 6702
+        width: 325
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06438e1cc1e61f3d0800000000000000
+      internalID: -3174635192528128928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 6702
+        width: 329
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9228a85d7f4a3b40800000000000000
+      internalID: 5420732501270733470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 6702
+        width: 331
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40ce819c5d1b8a0800000000000000
+      internalID: -6291012144776608592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 8575
+        y: 6702
+        width: 334
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e7ec92c43c3920800000000000000
+      internalID: 2971307864618428759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 5622
+        width: 337
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c711a8923bce610800000000000000
+      internalID: 1651892154329562244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 5622
+        width: 340
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c7c2cc55785d970800000000000000
+      internalID: 8779071851196087418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 5622
+        width: 343
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e679e86a8f6380800000000000000
+      internalID: -8975803349127995346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 5622
+        width: 345
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d54f5bd65d86730800000000000000
+      internalID: 3992675736844786954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 8570
+        y: 5622
+        width: 347
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b2a083248a223f0800000000000000
+      internalID: -926993570923402442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4542
+        width: 349
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde639489e408e3a0800000000000000
+      internalID: -6636048649932280099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 4542
+        width: 351
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0285b7c111e320800000000000000
+      internalID: 2585367210528738122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 4542
+        width: 352
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e82b5d9b801dd0800000000000000
+      internalID: -2517358683744574872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 4542
+        width: 354
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ac8e0aabc4280c0800000000000000
+      internalID: -4575009907007763921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 8567
+        y: 4542
+        width: 355
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709a741d1e5f51b0800000000000000
+      internalID: -5665706327218155394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3462
+        width: 356
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e85cd145ebc410800000000000000
+      internalID: 1498543372063269190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3462
+        width: 356
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d6f7ffda8dc1b80800000000000000
+      internalID: -8422618961262187127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 3462
+        width: 356
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83482240027185c10800000000000000
+      internalID: 2042407857288283192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 3462
+        width: 356
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6629cecbda9580800000000000000
+      internalID: -8819495239067210191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 8565
+        y: 3462
+        width: 357
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203ffdeca5a8b320800000000000000
+      internalID: 2573989349188120622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2382
+        width: 357
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0cb5f517272f00800000000000000
+      internalID: 1091884409931172405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 2382
+        width: 357
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5a1e98fca13130800000000000000
+      internalID: 3544804565521685435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 2382
+        width: 356
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba5837f3bb6519f0800000000000000
+      internalID: -498373763063588166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 2382
+        width: 354
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded92d1687475e30800000000000000
+      internalID: 4492137794665832154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 8566
+        y: 2382
+        width: 353
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b02c03cf86931c0800000000000000
+      internalID: -4523468918357881974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1302
+        width: 351
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67f6d3dce5a18f30800000000000000
+      internalID: 4576121132970080109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 1302
+        width: 349
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac94239426260bb0800000000000000
+      internalID: -4970243200227435351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 1302
+        width: 347
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443ee9a65fac45a80800000000000000
+      internalID: -8478929043027205308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 1302
+        width: 344
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708226f7cd404bb90800000000000000
+      internalID: -7227146156946348025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 8570
+        y: 1302
+        width: 342
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77c8d10509b2820800000000000000
+      internalID: 2894565859283204002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Algas_Gif-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 222
+        width: 339
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451e25eb895909c0800000000000000
+      internalID: -3960535939915311802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_0: -3501248091204714281
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_1: 7894452388109761998
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_10: 1651892154329562244
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_11: 8779071851196087418
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_12: -8975803349127995346
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_13: 3992675736844786954
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_14: -926993570923402442
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_15: -6636048649932280099
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_16: 2585367210528738122
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_17: -2517358683744574872
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_18: -4575009907007763921
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_19: -5665706327218155394
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_2: 3974437889941785429
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_20: 1498543372063269190
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_21: -8422618961262187127
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_22: 2042407857288283192
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_23: -8819495239067210191
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_24: 2573989349188120622
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_25: 1091884409931172405
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_26: 3544804565521685435
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_27: -498373763063588166
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_28: 4492137794665832154
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_29: -4523468918357881974
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_3: 9172301600936934985
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_30: 4576121132970080109
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_31: -4970243200227435351
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_32: -8478929043027205308
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_33: -7227146156946348025
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_34: 2894565859283204002
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_35: -3960535939915311802
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_4: -6408015951681275278
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_5: 4978769188805449997
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_6: -3174635192528128928
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_7: 5420732501270733470
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_8: -6291012144776608592
+      Algas_Gif-ezgif.com-gif-to-sprite-converter_9: 2971307864618428759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

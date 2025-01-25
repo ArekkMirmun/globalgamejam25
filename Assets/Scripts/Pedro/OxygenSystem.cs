@@ -9,6 +9,7 @@ public class OxygenSystem : MonoBehaviour
     public float oxygenDepletionRate = 1f;
     public float movingDepletionMultiplier = 2f;
     public GameObject oxygenSliderUI;
+    public PlayerMovement playerMovement;
 
     private Vector2 _movement;
 
@@ -16,10 +17,13 @@ public class OxygenSystem : MonoBehaviour
     void Start()
     {
          oxygenSliderUI.GetComponent<Slider>().value = oxygen;
+         playerMovement = GetComponent<PlayerMovement>();
     }
 
     void Update()
     {
+        if(playerMovement.IsFreeze()) return;
+        
         bool isMoving = _movement != Vector2.zero;
 
         float depletionRate = isMoving ? oxygenDepletionRate * movingDepletionMultiplier : oxygenDepletionRate;
