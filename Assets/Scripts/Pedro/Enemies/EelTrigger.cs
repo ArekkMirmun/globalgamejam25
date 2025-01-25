@@ -3,28 +3,19 @@ using UnityEngine;
 public class EelTrigger : MonoBehaviour
 {
     public Eel parentEel;
-    public Transform movementPoint;
 
     void Start()
     {
-        // Obtener referencia al padre y al punto de movimiento
+        // Obtener referencia al padre
         parentEel = GetComponentInParent<Eel>();
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // Si el jugador activa el trigger, iniciar el movimiento de la anguila
         if (other.CompareTag("Player") && parentEel != null)
         {
             parentEel.StartMoving();
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("Player") && parentEel != null)
-        {
-            parentEel.StopMoving();
         }
     }
 }

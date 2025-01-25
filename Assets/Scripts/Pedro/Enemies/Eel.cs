@@ -7,6 +7,7 @@ public class Eel : MonoBehaviour
     public List<Transform> pathPoints; // Lista de puntos que forman el camino
     private int currentPointIndex = 0; // Índice del punto actual en la ruta
     private bool isMoving = false; // Controla si la Eel está en movimiento
+    private bool hasCompletedPath = false; // Controla si ha completado su ruta
     private EelManager eelManager; // Referencia al controlador de las anguilas
 
     void Start()
@@ -22,17 +23,16 @@ public class Eel : MonoBehaviour
 
     public void StartMoving()
     {
-        if (eelManager != null)
+        // Solo iniciar movimiento si no ha completado el camino
+        if (!hasCompletedPath)
         {
-            eelManager.ActivateEel(this); // Notifica al controlador para activar esta Eel
+            if (eelManager != null)
+            {
+                eelManager.ActivateEel(this); // Notifica al controlador para activar esta Eel
+            }
+
+            isMoving = true;
         }
-
-        isMoving = true;
-    }
-
-    public void StopMoving()
-    {
-        isMoving = false;
     }
 
     void Update()
@@ -47,8 +47,17 @@ public class Eel : MonoBehaviour
             // Verificar si se alcanzó el punto actual
             if (Vector3.Distance(transform.position, targetPoint.position) < 0.001f)
             {
-                // Avanzar al siguiente punto, reiniciando el índice si llega al final
-                currentPointIndex = (currentPointIndex + 1) % pathPoints.Count;
+                if (currentPointIndex < pathPoints.Count - 1)
+                {
+                    // Avanzar al siguiente punto si no está en el último
+                    currentPointIndex++;
+                }
+                else
+                {
+                    // Detener el movimiento si llega al último punto
+                    isMoving = false;
+                    hasCompletedPath = true; // Marcar como completado
+                }
             }
         }
     }
