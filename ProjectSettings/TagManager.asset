@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Coleccionable
   - Interactable
+  - Obstacle
   layers:
   - Default
   - TransparentFX
