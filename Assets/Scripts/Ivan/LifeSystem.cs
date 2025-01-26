@@ -12,6 +12,7 @@ public class LifeSystem : MonoBehaviour
     public int health = 3;
     public SpriteRenderer submarineSprite;
     private float invencibilityTime = 1f; // Tiempo de invencibilidad
+    public AudioSource damageSound;
     private float invencibilityTimer; // Temporizador de invencibilidad
     private bool isInvencible; // Indica si el jugador es invencible
     private CameraShake cameraShake;
@@ -50,6 +51,8 @@ public class LifeSystem : MonoBehaviour
         if (isInvencible) return;
 
         cameraShake.ShakeCamera(1f, 0.8f);
+        
+        damageSound.Play();
         
         isInvencible = true;
         

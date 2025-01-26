@@ -5,6 +5,7 @@ public class WaterCourse : MonoBehaviour
     public GameObject blockBarrier;
     public GameObject rock;
     public GameObject bubbleGenerator;
+    public AudioSource rockPlaceSound;
     public float respulsionForce = 50f;
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -20,6 +21,7 @@ public class WaterCourse : MonoBehaviour
 
         if (other.CompareTag("Rock"))
         {
+            rockPlaceSound.Play();
             Destroy(other.transform.parent.gameObject);
             Destroy(blockBarrier);
             Destroy(bubbleGenerator);

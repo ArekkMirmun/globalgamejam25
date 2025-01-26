@@ -15,6 +15,8 @@ public class Bubble : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             oxygenSystem.AddOxygen(oxygenRecoveryRate);
+            // Play bubble pop sound
+            AudioController.instance.PlayBubblePop();
             Destroy(gameObject);
         }
     }
