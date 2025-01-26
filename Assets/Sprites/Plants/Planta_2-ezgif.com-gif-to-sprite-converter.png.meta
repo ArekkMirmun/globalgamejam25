@@ -1,0 +1,1141 @@
+fileFormatVersion: 2
+guid: 726f5020ba4e6fb4f9b6eb5b0d369e9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1499207739646355139
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 106608134928075375
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -1429110816121376991
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -3531288931751556404
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -8942253049589697644
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -5125133624646705903
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -8480072728242044502
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 1302012644721830309
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 4224170689921764460
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -4052730003595314683
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 3482218437372271566
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -7154141447435582693
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -4204218684712262556
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -3304315897927674221
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 7004928785769204104
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 2574703063599537169
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 5234756442229181331
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -4459079083907706088
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 4209987920027215432
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -5251263439048301706
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -889120510185571090
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -1134190437103547242
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 1424556808361604312
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 979669975405028017
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 5534049852219753319
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -9146997290913816725
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 2722747501260516010
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7510742270044707327
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -160765657891980166
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 4884223338836574406
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 6138910940530569249
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 7438257868939076572
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 740396990563300441
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 8589254328398161413
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -8136135196093973499
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -8257712259580761221
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 2274429509286526180
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 6063950461146961886
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -622854100995625044
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -3653831412641939629
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -4741868308981657129
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -5233780221298305978
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -8152647641807546126
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 1794318030108331831
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -8689344753358341868
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: 1097196918276120472
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -8504944290359194307
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: -3344777853101096190
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -7555481151112519897
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 6276008360979744321
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: 5467460260878556320
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -3130451641580747151
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: -6292146451084247854
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 5356112625101744387
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 730751986563254161
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: 7875950139300175014
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: -1125312209391871768
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: 2356629259808767727
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: 6436866672497010172
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: -5793930804406227823
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: 8723018777940177896
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: 137037176961013371
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: 3886546017168860904
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: -1548786938637892007
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: 8608096989942432022
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: 3654498235446373229
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: -5046971360543561594
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: -7860951461665160000
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: -554910213398994970
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: -1273783682567977362
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_69
+  - first:
+      213: -6723804768225398897
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_70
+  - first:
+      213: 102392970447364345
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_71
+  - first:
+      213: 6110452430568291086
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_72
+  - first:
+      213: -2715013564369605115
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_73
+  - first:
+      213: -1431648163067926171
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_74
+  - first:
+      213: 3390159461001101788
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_75
+  - first:
+      213: -6280201315989976257
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_76
+  - first:
+      213: 1930907517194181368
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_77
+  - first:
+      213: -7035145625793548137
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_78
+  - first:
+      213: 8225426602361084380
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_79
+  - first:
+      213: -5604201342609126273
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_80
+  - first:
+      213: -5927160593012750262
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_81
+  - first:
+      213: 353346169208289196
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_82
+  - first:
+      213: -5687372152087253264
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_83
+  - first:
+      213: 4904322865214217143
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_84
+  - first:
+      213: 4815139522636280338
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_85
+  - first:
+      213: -7638062231895836146
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_86
+  - first:
+      213: -9007042012667670
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_87
+  - first:
+      213: 8675675553937448623
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_88
+  - first:
+      213: 3554191221603529177
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_89
+  - first:
+      213: -5295582190668570647
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_90
+  - first:
+      213: 4184956799426961727
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_91
+  - first:
+      213: 6820701266745533355
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_92
+  - first:
+      213: 4095221615740784382
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_93
+  - first:
+      213: -9125503174190882115
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_94
+  - first:
+      213: 9194643194809345196
+    second: Planta_2-ezgif.com-gif-to-sprite-converter_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43924733abb419442829a4ab181e3650
+      internalID: 2138129845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8212fe2706ec241a66542d24099378
+      internalID: 902721834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d271240d24c6e4ebf71b61420df0b4
+      internalID: 354660649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2b452ba293130409d6b3c4719334ae
+      internalID: -197918871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f89de118dcf5e4a9d4c8818efc7123
+      internalID: 1320277743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3847dd1fcba3a4196ca269af142fc4
+      internalID: -1590819254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab91e3ccbcf8645814a1bd874dd9c6
+      internalID: -819007002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf9618368280d4f8d3b694c595a0d8
+      internalID: -1774006609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b6402197e80843b25c9507712b350
+      internalID: -175835682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bb85236eeb464188ed82a651af662
+      internalID: -1502865389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32da1168c70cf40ac32673ba910b4b
+      internalID: 1640398090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f614b13e861f1a4dbda276b22018697
+      internalID: 40609021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6afdf4c19a896c47908737703544ff7
+      internalID: 240480880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14788f68ebf1cac42991c36874e8de6c
+      internalID: 2043711174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d58da89431ac848b3389f427c57dd6
+      internalID: -355327693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc43377944991f146bd3bac6d22a03b2
+      internalID: -765573861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda2cb5558acb640a5307f6dbc6e18d
+      internalID: -1147257713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce164c8654048684e82bff65d34f88eb
+      internalID: 1657998290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10170f7ae9f513b428ba70c5e9229d10
+      internalID: -809858449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc3bec7cf30b42428f4a51d57bddc8c
+      internalID: 149478897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b175cdb487354dbb0cbd4dc0a388c
+      internalID: 1144477557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b266ba9991d9a42b97dfa0c0b2185c
+      internalID: -1488154267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba4a10d818b564dafd79eeb9fb255d
+      internalID: -946664727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7448134ac187e44ebc0afe0a2996125
+      internalID: -488359521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08bf206fe59a3459121a3c513d9d49
+      internalID: -1929001437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3228a0efc2cc144bf08d986a12135e
+      internalID: -2141909966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1f40e7c4f4444d8441e2c6a6b6ba0
+      internalID: 1796409604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7da21889fc0a4087d5aa09cd430a2
+      internalID: 1074388160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3b165eaaa87c43b5848e81ac7a5a7
+      internalID: 1221727868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d7cec1ba39d148879f42350aadfae
+      internalID: 608388921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d9f1c106e79f24d9dd9288eaef277a
+      internalID: -1885353501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta_2-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a1cf23c7e413458f817e4e62a2f3b
+      internalID: -245085132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9b795124e8ee5e4c9d488b56e76f1c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Planta_2-ezgif.com-gif-to-sprite-converter_0: 2138129845
+      Planta_2-ezgif.com-gif-to-sprite-converter_1: 902721834
+      Planta_2-ezgif.com-gif-to-sprite-converter_10: 1640398090
+      Planta_2-ezgif.com-gif-to-sprite-converter_11: 40609021
+      Planta_2-ezgif.com-gif-to-sprite-converter_12: 240480880
+      Planta_2-ezgif.com-gif-to-sprite-converter_13: 2043711174
+      Planta_2-ezgif.com-gif-to-sprite-converter_14: -355327693
+      Planta_2-ezgif.com-gif-to-sprite-converter_15: -765573861
+      Planta_2-ezgif.com-gif-to-sprite-converter_16: -1147257713
+      Planta_2-ezgif.com-gif-to-sprite-converter_17: 1657998290
+      Planta_2-ezgif.com-gif-to-sprite-converter_18: -809858449
+      Planta_2-ezgif.com-gif-to-sprite-converter_19: 149478897
+      Planta_2-ezgif.com-gif-to-sprite-converter_2: 354660649
+      Planta_2-ezgif.com-gif-to-sprite-converter_20: 1144477557
+      Planta_2-ezgif.com-gif-to-sprite-converter_21: -1488154267
+      Planta_2-ezgif.com-gif-to-sprite-converter_22: -946664727
+      Planta_2-ezgif.com-gif-to-sprite-converter_23: -488359521
+      Planta_2-ezgif.com-gif-to-sprite-converter_24: -1929001437
+      Planta_2-ezgif.com-gif-to-sprite-converter_25: -2141909966
+      Planta_2-ezgif.com-gif-to-sprite-converter_26: 1796409604
+      Planta_2-ezgif.com-gif-to-sprite-converter_27: 1074388160
+      Planta_2-ezgif.com-gif-to-sprite-converter_28: 1221727868
+      Planta_2-ezgif.com-gif-to-sprite-converter_29: 608388921
+      Planta_2-ezgif.com-gif-to-sprite-converter_3: -197918871
+      Planta_2-ezgif.com-gif-to-sprite-converter_30: -1885353501
+      Planta_2-ezgif.com-gif-to-sprite-converter_31: -245085132
+      Planta_2-ezgif.com-gif-to-sprite-converter_4: 1320277743
+      Planta_2-ezgif.com-gif-to-sprite-converter_5: -1590819254
+      Planta_2-ezgif.com-gif-to-sprite-converter_6: -819007002
+      Planta_2-ezgif.com-gif-to-sprite-converter_7: -1774006609
+      Planta_2-ezgif.com-gif-to-sprite-converter_8: -175835682
+      Planta_2-ezgif.com-gif-to-sprite-converter_9: -1502865389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
