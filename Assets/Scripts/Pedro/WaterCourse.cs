@@ -24,6 +24,8 @@ public class WaterCourse : MonoBehaviour
             rockPlaceSound.Play();
             Destroy(other.transform.parent.gameObject);
             Destroy(blockBarrier);
+            GetComponent<Collider2D>().enabled = false;
+            GetComponent<SpriteRenderer>().enabled = false;
             Destroy(bubbleGenerator);
             rock.SetActive(true);
         }
