@@ -14,6 +14,7 @@ public class WinController : MonoBehaviour
     public GameObject oxygenPanel;
     public GameObject lifePanel;
     public GameObject collectablePanel;
+    public Button playButton;
     
     public TextMeshProUGUI collectedText;
     
@@ -25,6 +26,7 @@ public class WinController : MonoBehaviour
     {
         
         winPanel.SetActive(true);
+        playButton.Select();
         
         CollectableController collectableController = CollectableController.Instance;
         

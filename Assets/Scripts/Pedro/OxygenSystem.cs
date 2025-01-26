@@ -38,8 +38,11 @@ public class OxygenSystem : MonoBehaviour
         // Opcional: Detectar si el oxígeno llega a 0
         if (oxygen <= 0)
         {
-            Debug.Log("El jugador se ha quedado sin oxígeno.");
-            // Aquí puedes añadir lógica adicional, como daño al jugador o muerte.
+            //Get lifesystem component
+            LifeSystem lifeSystem = GetComponent<LifeSystem>();
+            //Take damage
+            lifeSystem.TakeDamage();
+            AddOxygen(20);
         }
     }
 

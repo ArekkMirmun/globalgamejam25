@@ -1,13 +1,82 @@
 fileFormatVersion: 2
-guid: 4915f1d68a1689441b60ffe0517aba71
+guid: ead01057f1020fa4097e879d4183414f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 343248414217899110
-    second: Boton_Opciones_0
+      213: 2279866714469065437
+    second: hud_maimenu_0
   - first:
-      213: -6558121841875425203
-    second: Boton_Opciones_1
+      213: -8260061949688801600
+    second: hud_maimenu_1
+  - first:
+      213: -2222303999168596346
+    second: hud_maimenu_2
+  - first:
+      213: -455976606127426260
+    second: hud_maimenu_3
+  - first:
+      213: 5869369474946751028
+    second: hud_maimenu_4
+  - first:
+      213: -8483048970953654688
+    second: hud_maimenu_5
+  - first:
+      213: 546362294018678160
+    second: hud_maimenu_6
+  - first:
+      213: -1104366796888312040
+    second: hud_maimenu_7
+  - first:
+      213: -2529226496815385970
+    second: hud_maimenu_8
+  - first:
+      213: -7036110722318018114
+    second: hud_maimenu_9
+  - first:
+      213: -2080755857852319607
+    second: hud_maimenu_10
+  - first:
+      213: 5422857834925726689
+    second: hud_maimenu_11
+  - first:
+      213: 2854781217192411717
+    second: hud_maimenu_12
+  - first:
+      213: 10775698049197814
+    second: hud_maimenu_13
+  - first:
+      213: 5363503163744016254
+    second: hud_maimenu_14
+  - first:
+      213: 1710272160116758611
+    second: hud_maimenu_15
+  - first:
+      213: -1844902420777266777
+    second: hud_maimenu_16
+  - first:
+      213: 219832435049360146
+    second: hud_maimenu_17
+  - first:
+      213: -3366493726925996871
+    second: hud_maimenu_18
+  - first:
+      213: -1284449168379889448
+    second: hud_maimenu_19
+  - first:
+      213: 2964150289462938808
+    second: hud_maimenu_20
+  - first:
+      213: 5256506934201218293
+    second: hud_maimenu_21
+  - first:
+      213: -5351788840596362448
+    second: hud_maimenu_22
+  - first:
+      213: 2091153734440270343
+    second: hud_maimenu_23
+  - first:
+      213: 8249807940911126378
+    second: hud_maimenu_24
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,23 +198,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boton_Opciones_0
+      name: hud_maimenu_0
       rect:
         serializedVersion: 2
-        x: 248
-        y: 409
-        width: 154
-        height: 169
+        x: 211
+        y: 614
+        width: 1574
+        height: 440
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 66c8c273d9673c400800000000000000
-      internalID: 343248414217899110
+      spriteID: 82114b078cb369947917760db5ca6acc
+      internalID: 413397680
       vertices: []
       indices: 
       edges: []
@@ -154,7 +223,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 490bf0b23a6973a44a8a87854e7e35b9
+    spriteID: 1c65b10ac5cb3de49a33aa1e918c151c
     internalID: 0
     vertices: []
     indices: 
@@ -164,8 +233,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Boton_Opciones_0: 343248414217899110
-      Boton_Opciones_1: -6558121841875425203
+      hud_maimenu_0: 413397680
+      hud_maimenu_25: -285585230
+      hud_maimenu_4: 1296796695
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
