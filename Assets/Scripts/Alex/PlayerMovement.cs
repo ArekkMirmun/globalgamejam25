@@ -22,7 +22,6 @@ public class PlayerMovement : MonoBehaviour
 
         // Determina la velocidad en función de si está haciendo sprint o no
         float currentSpeed = isSprinting ? sprintSpeed : speed;
-        print(currentSpeed);
 
         // Añade fuerza en la dirección del movimiento teniendo en cuenta el multiplicador de ralentización
         
