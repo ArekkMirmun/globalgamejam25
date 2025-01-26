@@ -33,12 +33,16 @@ public class Estalactite : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-
-        if (collision.gameObject.CompareTag("Player")) {
-            collision.gameObject.GetComponent<LifeSystem>().TakeDamage();
+        if(isFalling)
+        {
+            if (collision.gameObject.CompareTag("Player")) {
+                collision.gameObject.GetComponent<LifeSystem>().TakeDamage();
+            }
+            
+            if (collision.gameObject.CompareTag("Obstacle")) {
+                Destroy(this.gameObject);
+            }
         }
-        Destroy(gameObject);
-
     }
 
     private void OnDrawGizmosSelected()
