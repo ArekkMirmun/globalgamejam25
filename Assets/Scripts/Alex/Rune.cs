@@ -5,6 +5,7 @@ public class Rune : MonoBehaviour
     [SerializeField] private SpriteRenderer chainsRune;
     [SerializeField] private GameObject chainsLight;
     [SerializeField] private RuneController runeController;
+    [SerializeField] private AudioSource runeSound;
     [SerializeField] private GameObject runeLight;
     [SerializeField] private Sprite activatedSprite;
     [SerializeField] private GameObject hingeToDestroy;
@@ -18,6 +19,7 @@ public class Rune : MonoBehaviour
         runeController.Collect();
         runeLight.SetActive(true);
         chainsLight.SetActive(true);
+        runeSound.Play();
         
         Destroy(hingeToDestroy);
         GetComponent<SpriteRenderer>().sprite = activatedSprite;

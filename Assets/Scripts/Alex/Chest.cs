@@ -5,6 +5,7 @@ public class Chest : MonoBehaviour
 {
     [SerializeField] private bool _isLocked;
     [SerializeField] private Interactable _interactable;
+    [SerializeField] private AudioSource chestOpenSound;
     [SerializeField] private Sprite openChestSprite;
     [SerializeField] private Light2D light2D;
 
@@ -12,6 +13,7 @@ public class Chest : MonoBehaviour
     {
         if (_isLocked) return;
         
+        chestOpenSound.Play();
         //Get sprite renderer component
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
         //Change the sprite to the open chest sprite

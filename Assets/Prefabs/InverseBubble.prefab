@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2270597463426450425}
   - component: {fileID: 3558474077180277512}
   - component: {fileID: 1528796023733021189}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: InverseBubble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -204,7 +204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4887192130158323328}
   - component: {fileID: 212235301765621546}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}

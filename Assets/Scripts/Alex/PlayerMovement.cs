@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody2D rb; // Referencia al Rigidbody2D
     [SerializeField] private Light2D light; // Referencia a la luz del submarino
     [SerializeField] private bool isFreeze = false; // Controla si el movimiento está congelado
+    [SerializeField] private AudioSource propellerSound; // Sonido de la hélice
     private Vector2 _movement; // Dirección del movimiento
     private bool isSprinting = false; // Controla si el jugador está haciendo sprint
     
@@ -19,6 +20,25 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         if (isFreeze) return;
+        
+        // Reproduce el sonido de la hélice si se mueve
+        if (_movement.magnitude > 0)
+        {
+            if (!propellerSound.isPlaying)
+            {
+                propellerSound.Play();
+            }
+        }
+        else
+        {
+            //Fade out the sound
+            propellerSound.volume -= 0.01f;
+            if (propellerSound.volume <= 0)
+            {
+                propellerSound.Stop();
+                propellerSound.volume = 0.2f;
+            }
+        }
 
         // Determina la velocidad en función de si está haciendo sprint o no
         float currentSpeed = isSprinting ? sprintSpeed : speed;
