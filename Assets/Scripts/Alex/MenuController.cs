@@ -9,6 +9,9 @@ public class MenuController : MonoBehaviour
     [SerializeField] private Button playButton;
     [SerializeField] private Transform player;
     [SerializeField] private CinemachineCamera playerCamera;
+    [SerializeField] private GameObject oxygenCanvas;
+    [SerializeField] private GameObject lifeCanvas;
+    [SerializeField] private GameObject treasureCanvas;
     public bool isVisible = true;
 
     private bool isStartingGame = false;
@@ -72,6 +75,11 @@ public class MenuController : MonoBehaviour
     private void CompleteStartGame()
     {
         isStartingGame = false; // Stop moving the player
+        
+        // Show the UI elements
+        oxygenCanvas.SetActive(true);
+        lifeCanvas.SetActive(true);
+        treasureCanvas.SetActive(true);
 
         Debug.Log("Ha llegado");
 
