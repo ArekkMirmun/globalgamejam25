@@ -9,6 +9,7 @@ public class SettingsController : MonoBehaviour
     public AudioMixer sfxMixer;
     public AudioMixer bgmMixer;
     public MenuController menuController;
+    public WinController winController;
     public GameObject settingsPanel;
     public GameObject lifeCanvas;
     public GameObject oxygenCanvas;
@@ -143,7 +144,7 @@ public class SettingsController : MonoBehaviour
 
     public void ShowSettings()
     {
-        if (menuController.IsMenuOpen()) return;
+        if (menuController.IsMenuOpen() || winController.IsMenuOpen()) return;
 
         lifeCanvas.SetActive(false);
         oxygenCanvas.SetActive(false);

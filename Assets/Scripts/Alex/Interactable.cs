@@ -69,6 +69,8 @@ public class Interactable : MonoBehaviour
                 Chest chest = GetComponent<Chest>();
                 //Call the interact method from the chest component
                 chest.Interact();
+                Collectable chestCollectable = GetComponent<Collectable>();
+                chestCollectable.Interact(); 
                 break;
         }
     }

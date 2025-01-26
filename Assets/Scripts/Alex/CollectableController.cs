@@ -14,6 +14,7 @@ public class CollectableController : MonoBehaviour
     private bool _hasFosil;
     private bool _hasPearl;
     private bool _hasDiamond;
+    private bool _hasChest;
     
     
     private void Awake()
@@ -42,6 +43,9 @@ public class CollectableController : MonoBehaviour
             case CollectableType.Diamond:
                 _hasDiamond = true;
                 break;
+            case CollectableType.Chest:
+                _hasChest = true;
+                break;
         }
         
         IncrementCollectableText();
@@ -65,6 +69,8 @@ public class CollectableController : MonoBehaviour
                 return _hasPearl;
             case CollectableType.Diamond:
                 return _hasDiamond;
+            case CollectableType.Chest:
+                return _hasChest;
         }
 
         return false;
