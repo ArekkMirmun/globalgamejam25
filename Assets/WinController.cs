@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -8,16 +9,28 @@ public class WinController : MonoBehaviour
     public Image pearlBackground;
     public Image diamondBackground;
     public Image fosilBackground;
+    public Image chestBackground;
+    public GameObject winPanel;
+    public GameObject oxygenPanel;
+    public GameObject lifePanel;
+    public GameObject collectablePanel;
     
     public TextMeshProUGUI collectedText;
     
-    private int _collectablesToWin = 4;
+    private int _collectablesToWin = 5;
     private int _collected = 0;
-
-
-    public void Start()
+    
+    
+    public void Win()
     {
+        
+        winPanel.SetActive(true);
+        
         CollectableController collectableController = CollectableController.Instance;
+        
+        oxygenPanel.SetActive(false);
+        lifePanel.SetActive(false);
+        collectablePanel.SetActive(false);
         
         if(collectableController == null)
         {
@@ -42,9 +55,29 @@ public class WinController : MonoBehaviour
         {
             fosilBackground.color = new Color(fosilBackground.color.r, fosilBackground.color.g, fosilBackground.color.b, 0.5f);
         }
+        if (!collectableController.IsCollected(CollectableType.Chest))
+        {
+            chestBackground.color = new Color(chestBackground.color.r, chestBackground.color.g, chestBackground.color.b, 0.5f);
+        }
         
         _collected = collectableController.GetCollectableCount();
-        collectedText.text = _collected + "/4";
+        collectedText.text = _collected + "/" + _collectablesToWin;
         
+    }
+
+    public void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.CompareTag("Player"))
+        {
+            //get PlayerMovement component
+            PlayerMovement playerMovement = other.gameObject.GetComponent<PlayerMovement>();
+            playerMovement.FreezeMovement();
+            Win();
+        }
+    }
+    
+    public bool IsMenuOpen()
+    {
+        return winPanel.activeSelf;
     }
 }

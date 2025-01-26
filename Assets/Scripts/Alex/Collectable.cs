@@ -7,6 +7,7 @@ public enum CollectableType
     Fosil,
     Pearl,
     Diamond,
+    Chest
 }
 
 public class Collectable : MonoBehaviour
@@ -20,6 +21,8 @@ public class Collectable : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            if (this.collectableType == CollectableType.Chest) return;
+
             collectableController.Collect(collectableType);
             Destroy(gameObject);
         }
@@ -32,6 +35,7 @@ public class Collectable : MonoBehaviour
     public void Interact()
     {
         collectableController.Collect(collectableType);
+        if (this.collectableType == CollectableType.Chest) return;
         Destroy(gameObject);
     }
 
