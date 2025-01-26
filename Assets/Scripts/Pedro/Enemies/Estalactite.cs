@@ -16,7 +16,6 @@ public class Estalactite : MonoBehaviour
             RaycastHit2D hit;
             if (hit = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, playerLayer))
             {
-                print(hit.collider.gameObject.name);
                 if (hit.collider.CompareTag("Player"))
                 {
                     print("Hit player!");
