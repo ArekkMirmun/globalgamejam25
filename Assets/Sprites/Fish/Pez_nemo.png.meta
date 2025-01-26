@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7d40e94201685e040a92386ed3a28bcb
+guid: 52dfd6c42137ed04cb401b2218c54083
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -736069818446399882
-    second: pez_luna_0
+      213: -1439131721394499398
+    second: Pez_nemo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,43 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pez_luna_0
+      name: Pez_nemo_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 39
-        width: 885
-        height: 883
+        x: 83
+        y: 144
+        width: 1196
+        height: 765
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 676bd956664f8c5f0800000000000000
-      internalID: -736069818446399882
+      spriteID: ab0d841035d270ce0800000000000000
+      internalID: -1439131721394499398
       vertices: []
       indices: 
       edges: []
@@ -161,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pez_luna_0: -736069818446399882
+      Pez_nemo_0: -1439131721394499398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
