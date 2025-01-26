@@ -2,10 +2,12 @@ using UnityEngine;
 
 public class Rune : MonoBehaviour
 {
-    [SerializeField] private GameObject chains;
+    [SerializeField] private SpriteRenderer chainsRune;
+    [SerializeField] private GameObject chainsLight;
     [SerializeField] private RuneController runeController;
     [SerializeField] private GameObject runeLight;
     [SerializeField] private Sprite activatedSprite;
+    [SerializeField] private GameObject hingeToDestroy;
 
 
 
@@ -14,9 +16,13 @@ public class Rune : MonoBehaviour
     public void Interact()
     {
         runeController.Collect();
-        Destroy(chains);
         runeLight.SetActive(true);
+        chainsLight.SetActive(true);
+        
+        Destroy(hingeToDestroy);
         GetComponent<SpriteRenderer>().sprite = activatedSprite;
+        chainsRune.sprite = activatedSprite;
+        
         
     }
 
