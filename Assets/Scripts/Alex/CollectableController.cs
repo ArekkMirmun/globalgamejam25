@@ -23,8 +23,6 @@ public class CollectableController : MonoBehaviour
         {
             Instance = this;
         }
-        
-        DontDestroyOnLoad(gameObject);
     }
 
     public void Collect(CollectableType collectableType)

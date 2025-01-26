@@ -2779,7 +2779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efbb75f1d25e6144eb9a218d0e1a18be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  restartButton: {fileID: 0}
+  restartButton: {fileID: 194280773}
 --- !u!1 &2021348944
 GameObject:
   m_ObjectHideFlags: 0
