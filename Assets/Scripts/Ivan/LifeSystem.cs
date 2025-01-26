@@ -14,6 +14,7 @@ public class LifeSystem : MonoBehaviour
     private float invencibilityTime = 1f; // Tiempo de invencibilidad
     private float invencibilityTimer; // Temporizador de invencibilidad
     private bool isInvencible; // Indica si el jugador es invencible
+    private CameraShake cameraShake;
 
     // Vida actual
     private int currentLife;
@@ -41,11 +42,14 @@ public class LifeSystem : MonoBehaviour
     void Start()
     {
         currentLife = health; // Inicializar la vida actual con la salud inicial
+        cameraShake = GetComponent<CameraShake>();
     }
 
     public void TakeDamage()
     {
         if (isInvencible) return;
+
+        cameraShake.ShakeCamera(1f, 0.8f);
         
         isInvencible = true;
         
