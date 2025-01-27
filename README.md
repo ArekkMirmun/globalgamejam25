@@ -4,7 +4,7 @@
 **Platform:** PC 
 **Engine:** Unity
 
-Created for: Global Game Jam 2025
+Created for: [Global Game Jam 2025](https://globalgamejam.org/games/2025/underwater-2)
 
 ---
 
