@@ -25,6 +25,12 @@ Embark on an underwater odyssey in *Underwater*! Take control of a submarine tha
   [Iván Zúñiga](https://github.com/VandurTheWizard)  <a href="https://thewizardvandur.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="25" alt="gmail logo"  />
   </a>
+
+  ### **2D Artits:**
+
+ [Deniisa](https://globalgamejam.org/users/deniisa)
+  
+[Marttrgz](https://globalgamejam.org/users/marttrgz)
   
 
 ---
