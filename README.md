@@ -28,9 +28,13 @@ Embark on an underwater odyssey in *Underwater*! Take control of a submarine tha
 
   ### **2D Artits:**
 
- [Deniisa](https://globalgamejam.org/users/deniisa)
+ [Deniisa](https://globalgamejam.org/users/deniisa) <a href="http://artstation.com/denisatomoroga" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-2874a6?logo=artstation&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
   
-[Marttrgz](https://globalgamejam.org/users/marttrgz)
+[Marttrgz](https://globalgamejam.org/users/marttrgz) <a href="https://martarepoles7.artstation.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-2874a6?logo=artstation&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
   
 
 ---
