@@ -65,7 +65,3 @@ Embark on an underwater odyssey in *Underwater*! Take control of a submarine tha
 
 ---
 
-## **License**
-
-This game is free to play for personal use. Redistribution or commercial use is prohibited without permission.
-
