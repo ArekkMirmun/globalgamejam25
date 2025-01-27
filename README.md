@@ -4,11 +4,28 @@
 **Platform:** PC 
 **Engine:** Unity
 
+Created for: Global Game Jam 2025
+
 ---
 
 ## **Game Description**
 
 Embark on an underwater odyssey in *Underwater*! Take control of a submarine that descends into a mysterious crack in the ocean floor. What begins as a thrilling exploration soon becomes a journey fraught with danger, discovery, and a mind-bending twist: a space-time paradox where the end is the beginning.
+
+### **Programmers:**
+
+ [Alejandro Miranda](https://github.com/ArekkMirmun) <a href="https://arekk.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="25" alt="gmail logo"  />
+  </a> 
+  
+[Pedro Vílchez](https://github.com/NuMeRo-999)  <a href="https://numero999.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
+
+  [Iván Zúñiga](https://github.com/VandurTheWizard)  <a href="https://thewizardvandur.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
+  
 
 ---
 
@@ -24,7 +41,6 @@ Embark on an underwater odyssey in *Underwater*! Take control of a submarine tha
 ## **Controls**
 
 - **Arrow Keys / WASD**: Move the submarine
-- **Spacebar**: Fire weapon
 - **Shift**: Boost speed
 - **E**: Interact
 
@@ -46,15 +62,6 @@ Embark on an underwater odyssey in *Underwater*! Take control of a submarine tha
 1. Download the game from the [itch.io page](https://arekk.itch.io/underwater).
 2. Extract the downloaded file.
 3. Run the `Underwater.exe` (or equivalent).
-
----
-
-## **Credits**
-
-- **Game Design**: [Your Name]  
-- **Programming**: [Your Name or Team Members]  
-- **Art**: [Your Name or Artists]  
-- **Sound & Music**: [Your Name or Contributors]  
 
 ---
 
